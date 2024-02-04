@@ -15,3 +15,4 @@ public class Main {
         System.out.println("pを含み、aから始まる果物は" + result);
     }
 }
+
